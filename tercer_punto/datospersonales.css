@@ -1,0 +1,15 @@
+body{
+    background-image: url('nombre.jpg');
+    background-size:cover;
+}
+.main-frame-cal{
+    font-family: 'Times New Roman', Times, serif;
+    width: 30%;
+    padding: 30px;
+    height: 315px;
+    border-radius: 80px;
+    background-color: rgba(24, 14, 172, 0.986);
+    box-shadow: 0px 0px 20px 0px rgba(248, 3, 3, 0.775);
+    margin: 5% auto;
+
+}

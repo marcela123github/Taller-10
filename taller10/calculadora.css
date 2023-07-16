@@ -1,0 +1,27 @@
+body{
+        background-image: url('mario.jpg');
+        background-size: cover;
+    
+}
+.main-frame-cal {
+    float: left;
+    width: 30%;
+    padding: 15px;
+    border-radius: 30px;
+    background-color: rgba(15, 121, 219, 0.759);
+    box-shadow: 0px 0px 20px 0px rgba(231, 9, 9, 0.775);
+    margin: 3% 0 3% 3%;
+    text-align: left;
+    font-size: 23px;
+}
+.main-frame-cal label{
+    font-weight: bold;
+    
+}
+button{
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(17, 141, 44);
+
+}
+
